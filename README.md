@@ -3,6 +3,7 @@
 - 🌱 Innovator, Engineer, Geek Determined to make useful products for our society with my research results.
 - 🌐 Personal website: https://www.xttechgroup.com, https://www.xttechgroup.cn (For chinese users)
 - 📫 Business/Academic contact: jtang@umass.edu
+- 🔑 GPG key: https://keybase.io/steventang
 - 😄 Pronouns: He/Him
 
 ![GammaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gammapi&count_private=true)
