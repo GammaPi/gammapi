@@ -1,5 +1,11 @@
 ### Hi there 👋
+- 🔭 CompEng PhD student@UMASS
+- 🌱 Innovator, Engineer, Geek Determined to make useful products for our society with my research results.
+- 🌐 Personal website: https://www.xttechgroup.com, https://www.xttechgroup.cn (For chinese users)
+- 📫 Business/Academic contact: jtang@umass.edu
+- 😄 Pronouns: He/Him
 
+![GammaPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=gammapi&count_private=true)
 <!--
 **GammaPi/gammapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
