@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :triangular_flag_on_post: Starting 2022/04/17 00:00 Vigilant mode is enabled. All commits are signed with the GPG public key. Unverified commits are not commited by myself.
+- :triangular_flag_on_post: Starting 2022/04/17 00:00 Vigilant mode is enabled. All commits are signed with the GPG public key when possible.
 - 🔭 CompEng PhD student@UMASS
 - 🌱 Innovator, Engineer, Geek Determined to make useful products for our society with my research results.
 - 🌐 Personal website: https://www.xttechgroup.com, https://www.xttechgroup.cn (For chinese users)
