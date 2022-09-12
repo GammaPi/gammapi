@@ -3,8 +3,7 @@
 - 🔭 CompEng PhD student@UMASS
 - 🌱 Innovator, Engineer, Geek Determined to make useful products for our society with my research results.
 - 🌐 Personal website: https://www.xttechgroup.com (Global Site), https://www.xttechgroup.cn (中国站)
-- 📫 Business contact: mrsteventang@outlook.com
-- 📫 Academic contact: jtang@umass.edu
+- 📫 Business/Academic email: steventang [SYM] xttechgroup.com
 - 🔑 GPG key: https://keybase.io/steventang
 - 😄 Pronouns: He/Him
 
