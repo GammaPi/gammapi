@@ -2,8 +2,9 @@
 - :triangular_flag_on_post: Starting 2022/04/17 00:00 Vigilant mode is enabled. All commits are signed with the GPG public key when possible.
 - 🔭 CompEng PhD student@UMASS
 - 🌱 Innovator, Engineer, Geek Determined to make useful products for our society with my research results.
-- 🌐 Personal website: https://www.xttechgroup.com, https://www.xttechgroup.cn (For chinese users)
-- 📫 Business/Academic contact: jtang@umass.edu
+- 🌐 Personal website: https://www.xttechgroup.com (Global Site), https://www.xttechgroup.cn (中国站)
+- 📫 Business contact: mrsteventang@outlook.com
+- 📫 Academic contact: jtang@umass.edu
 - 🔑 GPG key: https://keybase.io/steventang
 - 😄 Pronouns: He/Him
 
